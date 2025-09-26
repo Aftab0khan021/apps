@@ -5,7 +5,7 @@ export const mockPersonalInfo = {
   title: 'Full Stack Developer',
   location: 'Mumbai, India',
   summary: 'Passionate full-stack developer with expertise in modern web technologies. Creating innovative solutions and seamless user experiences with a focus on performance and user-centric design.',
-  avatar: '/images/avatar.jpg', // We'll use a placeholder
+  avatar: '/images/avatar.svg',
   email: 'aftab.pathan@example.com',
   phone: '+91 98765 43210',
   linkedin: 'https://linkedin.com/in/aftabpathan',
